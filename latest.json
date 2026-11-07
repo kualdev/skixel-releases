@@ -1,7 +1,16 @@
 {
-  "version": "0.30.4",
-  "notes": "Russian fix",
+  "version": "0.30.5",
+  "notes": "No more debuffs",
   "history": [
+    {
+      "version": "0.30.5",
+      "date": "2026-11-07",
+      "title": "No more debuffs",
+      "notes": [
+        "Every skier's debuff is gone: they only have their perk and their ability now",
+        "Grandfather can do tricks like everyone else again; Russian's shield returns at its old pace"
+      ]
+    },
     {
       "version": "0.30.4",
       "date": "2026-11-07",
@@ -71,22 +80,22 @@
   ],
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.30.4.zip",
-      "sha256": "f89a34e4e937f2b7447d3d0670aa32f66867ba8bf15ba1566cd3b94996e2ecc2",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.30.5.zip",
+      "sha256": "5eacf158314df43b3e720c1ea4ab6595ed7af63e1a9a6ed840461af73981785a",
       "exe": "SkixelSnowbound.exe",
-      "size": 67161842
+      "size": 67161465
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.30.4.zip",
-      "sha256": "2c28cc32fe290c9dd7f9da8b468174864c00f9c6ce3c77d323493b72dac61cab",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.30.5.zip",
+      "sha256": "4e9ec12070077bfb1b5f758192bb25dfcbbe3464078b8eaba7be4639463e80de",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 61133191
+      "size": 61132818
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.30.4.zip",
-      "sha256": "ff0219eca6ac45c93f2294a1545c005d0bbc3ba940c4e05724b844d4838889e4",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.30.5.zip",
+      "sha256": "e73ae2d33ce11bacd6d8c48cfd4d83a24075650bd2978a330f0b0e960ac4b647",
       "exe": "Skixel RELOADED.app",
-      "size": 88895781
+      "size": 88895328
     }
   }
 }
