@@ -2,6 +2,10 @@
 
 Latest game: 0.29.0
 
-## Get the launcher
+## Download the launcher (one click)
 
-Download the launcher for your system from the launcher folder (launcher/SkixelLauncher-windows.zip, -macos.zip, -linux.zip). It installs and updates the game by itself.
+- **Windows:** [SkixelLauncher-Windows.exe](https://github.com/kualdev/skixel-releases/raw/main/launcher/SkixelLauncher-Windows.exe) (just run it)
+- **macOS:** [SkixelLauncher-macOS.zip](https://github.com/kualdev/skixel-releases/raw/main/launcher/SkixelLauncher-macOS.zip) (opens by itself, drag the app anywhere)
+- **Linux:** [SkixelLauncher-Linux.x86_64](https://github.com/kualdev/skixel-releases/raw/main/launcher/SkixelLauncher-Linux.x86_64) (make it executable: chmod +x)
+
+The launcher installs the game, updates it by itself and shows what changed.
