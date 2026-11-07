@@ -1,7 +1,30 @@
 {
-  "version": "0.32.0",
-  "notes": "Leaderboard, hold to skip, candy, self-updating launcher",
+  "version": "0.32.1",
+  "notes": "Leaderboard live",
   "history": [
+    {
+      "version": "0.32.1",
+      "date": "2026-11-08",
+      "title": "Leaderboard live",
+      "notes": [
+        "The leaderboard is online: press Ranks on the menu, pick a name, and send your best score",
+        "Names with bad words (English, Turkish, Japanese) are removed from the leaderboard for good"
+      ],
+      "tr": {
+        "title": "Skor tablosu canl\u0131",
+        "notes": [
+          "Skor tablosu a\u00e7\u0131k: men\u00fcden S\u0131ra'ya bas, bir isim se\u00e7 ve en iyi skorunu g\u00f6nder",
+          "K\u00fcf\u00fcrl\u00fc ve k\u00f6t\u00fc kelime i\u00e7eren isimler skor tablosundan kal\u0131c\u0131 olarak \u00e7\u0131kar\u0131l\u0131r (\u0130ngilizce, T\u00fcrk\u00e7e, Japonca)"
+        ]
+      },
+      "ja": {
+        "title": "\u30e9\u30f3\u30ad\u30f3\u30b0 \u3053\u3046\u304b\u3044",
+        "notes": [
+          "\u30e9\u30f3\u30ad\u30f3\u30b0\u304c \u3072\u3089\u304d\u307e\u3057\u305f: \u30e1\u30cb\u30e5\u30fc\u306e \u9806\u4f4d\u3092 \u304a\u3057\u3066 \u306a\u307e\u3048\u3092 \u304d\u3081\u3001\u30d9\u30b9\u30c8\u30b9\u30b3\u30a2\u3092 \u304a\u304f\u308d\u3046",
+          "\u308f\u308b\u3044 \u3053\u3068\u3070\u3092 \u3075\u304f\u3080 \u306a\u307e\u3048\u306f \u30e9\u30f3\u30ad\u30f3\u30b0\u304b\u3089 \u3048\u3044\u304d\u3085\u3046\u306b \u306e\u305e\u304b\u308c\u307e\u3059 (\u3048\u3044\u3054\u30fb\u30c8\u30eb\u30b3\u3054\u30fb\u306b\u307b\u3093\u3054)"
+        ]
+      }
+    },
     {
       "version": "0.32.0",
       "date": "2026-11-08",
@@ -286,22 +309,22 @@
   },
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.32.0.zip",
-      "sha256": "ddc67b801552a4e01616db0f1d93e2dbc3454d0225f11b687d5d822a1f4f103d",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.32.1.zip",
+      "sha256": "9b1edc0fbe85b06c7c00429a5713d636476e6a587acbae1bf51dd37b8bad638e",
       "exe": "SkixelSnowbound.exe",
-      "size": 67671738
+      "size": 67672463
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.32.0.zip",
-      "sha256": "7c7c71167c573f419e6a037484a3f6544b1bdb60a46cc0a4369750209d8ce6d5",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.32.1.zip",
+      "sha256": "1405c464345e2368473b285739fa3511e8d7fb36fa16a29c953328e2dba17f6b",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 61642533
+      "size": 61644478
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.32.0.zip",
-      "sha256": "c4a38c1bf9f2b4089a890633b8b83c6e6706b496bfa1f888455bcb028097af2b",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.32.1.zip",
+      "sha256": "859d6b55caaadd6f634c2075970265f345e3a6889ce8d68262d322e0f324dea0",
       "exe": "Skixel RELOADED.app",
-      "size": 89406053
+      "size": 89407753
     }
   }
 }
