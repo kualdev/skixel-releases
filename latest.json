@@ -1,24 +1,54 @@
 {
-  "version": "0.29.0",
-  "notes": "Save slots, boards fit every skier, calmer aurora, pets leave your tracks",
+  "version": "0.30.0",
+  "notes": "Open beta: four new skiers, soft music, new economy and tickets",
+  "history": [
+    {
+      "version": "0.30.0",
+      "date": "2026-11-07",
+      "title": "Open Beta",
+      "notes": [
+        "Open beta!",
+        "4 new skiers: Flamingo, Dachshund, Kangaroo, Octopus Diver (own boards, own perks and abilities)",
+        "Soft new music that stays behind the sound effects",
+        "Tickets in bronze, silver and gold: far mountains pay better, some items cost tickets",
+        "Skiers cost cookies and candy; upgrades and game-changing items cost much more",
+        "Revive with candy only in Endless; Mochi revives once per run",
+        "Own pair of skis for Penguin, Gingerbread, Yeti, King Cookie; Snowman rides his saucer",
+        "Tricks: press up again in the air and hold; moves change with what you jump",
+        "Jumping a snowball from behind gives stamina; conveyors push; thin ice cracks and breaks",
+        "Rock rows never wall off the whole road"
+      ]
+    },
+    {
+      "version": "0.29.0",
+      "date": "2026-11-06",
+      "title": "Save slots",
+      "notes": [
+        "3 save slots",
+        "Boards fit every skier",
+        "Calmer aurora",
+        "Pets leave your tracks"
+      ]
+    }
+  ],
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.29.0.zip",
-      "sha256": "f47be4fee22acd0537abe57ad0cb62bff3f61faf7691685ac6a1dd23b743b9d4",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.30.0.zip",
+      "sha256": "1a2d5d4d051c579cfb6462c988ab4a9b5f4b57f32053251550feff2bd28a2e9f",
       "exe": "SkixelSnowbound.exe",
-      "size": 61100092
+      "size": 67159098
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.29.0.zip",
-      "sha256": "4d7f0fc7f69a74df93788e003532f3d18291b637b08560de8759b89b6b6eaf47",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.30.0.zip",
+      "sha256": "1ed3f2e0dd0a6e04cd0bc3dd173107bc5934b3c2d885f579e7ca0dcaed648cf8",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 55071581
+      "size": 61129801
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.29.0.zip",
-      "sha256": "6d811ca7b5c27d241350c8b31c80a81133ed1d110ac755a226db8f931c63d8c9",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.30.0.zip",
+      "sha256": "4df6f69eb778d652c4ffc88840edb6733b90148edb9083580643d782fae39dcd",
       "exe": "Skixel RELOADED.app",
-      "size": 82834497
+      "size": 88892212
     }
   }
 }
