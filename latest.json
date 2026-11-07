@@ -1,13 +1,14 @@
 {
-  "version": "0.30.2",
-  "notes": "Balance: pricier game-changers, Russian debuff, Grandfather tricks",
+  "version": "0.30.3",
+  "notes": "Balance by impact, not one big price rise",
   "history": [
     {
       "version": "0.30.2",
       "date": "2026-11-07",
       "title": "Balance",
       "notes": [
-        "Game-changing gadgets, boards and pets cost a lot more (wax, thermos, mittens, scarf, trail mix, radar, powder and surf boards, most pets); the strongest need silver or gold tickets",
+        "Balance fixed: prices now follow what an item really does (tools/price_model.py), not one big rise",
+        "Looks and small perks cost little; strong game-changers (thermos, wax, mittens, scarf, trail mix) stay expensive; the strongest need silver or gold tickets",
         "Russian: heavier debuff (lane changes 30% slower, jumps 10% lower) and his shield comes back later",
         "Grandfather: two tricks off ramps and cliffs, the third is his signature move, three at most"
       ]
@@ -54,22 +55,22 @@
   ],
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.30.2.zip",
-      "sha256": "727ac95845f4e88305ea02360adea4ae76e366bd77e9137f9934ab291797c56e",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.30.3.zip",
+      "sha256": "adc3e70965dd24191801803115b20009da4f17615d9cfd571a662cb0d430aad0",
       "exe": "SkixelSnowbound.exe",
-      "size": 67161960
+      "size": 67161929
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.30.2.zip",
-      "sha256": "75c8e8ce2e407ba2c857eb244bbaed21088b1da8dccef1d0d27d9649e8012a78",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.30.3.zip",
+      "sha256": "0684763e1925f3bdba0b402a1782a5972502f9c735d5ac4afd3e414d4d46593d",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 61133200
+      "size": 61133170
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.30.2.zip",
-      "sha256": "7177d0c7b9d8b2f6aef38fe5caefe79d109e3a4e1f86cc937bcf62f076517743",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.30.3.zip",
+      "sha256": "fda149e02c54fc9a6741c037f4a11d88a18994b73657df01b7b0ccbf789fe6d0",
       "exe": "Skixel RELOADED.app",
-      "size": 88895750
+      "size": 88895802
     }
   }
 }
