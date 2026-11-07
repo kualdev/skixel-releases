@@ -1,7 +1,39 @@
 {
-  "version": "0.33.0",
-  "notes": "Trophy levels, more missions, loadouts on the leaderboard",
+  "version": "0.33.1",
+  "notes": "Logos, OG and Nihal",
   "history": [
+    {
+      "version": "0.33.1",
+      "date": "2026-11-08",
+      "title": "Logos, OG and Nihal",
+      "notes": [
+        "The word under SKIXEL follows your language, drawn like the English SNOWBOUND: KARA G\u00d6M\u00dcL\u00dc in Turkish, \u30b9\u30ce\u30fc\u30d0\u30a6\u30f3\u30c9 in Japanese (game and launcher)",
+        "The game stays in the language you chose after an update, and starts in English until you choose",
+        "Features for closed-beta players have arrived",
+        "Mochi the cat is now Nihal, drawn after a real calico cat",
+        "Leaderboard: the status text no longer sits on top of the name box"
+      ],
+      "tr": {
+        "title": "Logolar, OG ve Nihal",
+        "notes": [
+          "SKIXEL'in alt\u0131ndaki yaz\u0131 diline g\u00f6re de\u011fi\u015fir ve \u0130ngilizce SNOWBOUND gibi \u00e7izilir: T\u00fcrk\u00e7ede KARA G\u00d6M\u00dcL\u00dc, Japoncada \u30b9\u30ce\u30fc\u30d0\u30a6\u30f3\u30c9 (oyun ve launcher)",
+          "G\u00fcncellemeden sonra oyun se\u00e7ti\u011fin dilde kal\u0131r; sen se\u00e7ene kadar \u0130ngilizce ba\u015flar",
+          "Kapal\u0131 beta oyuncular\u0131 i\u00e7in \u00f6zellikler geldi",
+          "Kedi Mochi art\u0131k Nihal: ger\u00e7ek bir \u00fc\u00e7 renkli kediye g\u00f6re \u00e7izildi",
+          "Skor tablosu: durum yaz\u0131s\u0131 art\u0131k isim kutusunun \u00fcst\u00fcne binmiyor"
+        ]
+      },
+      "ja": {
+        "title": "\u30ed\u30b4\u3001OG\u3001\u30cb\u30cf\u30eb",
+        "notes": [
+          "SKIXEL \u306e \u3057\u305f\u306e \u3053\u3068\u3070\u304c \u3052\u3093\u3054\u306b \u3042\u308f\u305b\u3066 \u304b\u308f\u308a\u3001\u3048\u3044\u3054\u306e SNOWBOUND \u3068 \u304a\u306a\u3058 \u30c7\u30b6\u30a4\u30f3\u306b: \u30c8\u30eb\u30b3\u3054\u306f KARA G\u00d6M\u00dcL\u00dc\u3001\u306b\u307b\u3093\u3054\u306f \u30b9\u30ce\u30fc\u30d0\u30a6\u30f3\u30c9 (\u30b2\u30fc\u30e0\u3068 \u30e9\u30f3\u30c1\u30e3\u30fc)",
+          "\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u306e \u3042\u3068\u3082 \u3048\u3089\u3093\u3060 \u3052\u3093\u3054\u306e \u307e\u307e\u3002\u3048\u3089\u3076\u307e\u3067\u306f \u3048\u3044\u3054\u3067 \u306f\u3058\u307e\u308a\u307e\u3059",
+          "\u30af\u30ed\u30fc\u30ba\u30c9\u30d9\u30fc\u30bf\u306e \u30d7\u30ec\u30a4\u30e4\u30fc \u3080\u3051\u306e \u304d\u306e\u3046\u304c \u3068\u3046\u3058\u3087\u3046\u3057\u307e\u3057\u305f",
+          "\u30cd\u30b3\u306e \u30e2\u30c1\u306f \u30cb\u30cf\u30eb\u306b\u3002\u307b\u3093\u3082\u306e\u306e \u307f\u3051\u306d\u3053\u3092 \u30e2\u30c7\u30eb\u306b \u304b\u304d\u307e\u3057\u305f",
+          "\u30e9\u30f3\u30ad\u30f3\u30b0: \u30b9\u30c6\u30fc\u30bf\u30b9\u306e \u3082\u3058\u304c \u306a\u307e\u3048\u306e \u30e9\u30f3\u306b \u304b\u3055\u306a\u3089\u306a\u304f \u306a\u308a\u307e\u3057\u305f"
+        ]
+      }
+    },
     {
       "version": "0.33.0",
       "date": "2026-11-08",
@@ -320,43 +352,43 @@
     }
   ],
   "launcher": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "platforms": {
       "windows": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-Windows.exe",
-        "sha256": "ceb996bcebf4b210417040efe894fdac99f588d4f442519cdf8d73979ab9dd0d",
-        "size": 84761360
+        "sha256": "b716d8cded79270c237e4b6f2b4395e75f9d5822fb2d6b0fc3b120f7f60ab25e",
+        "size": 84766896
       },
       "linux": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-Linux.x86_64",
-        "sha256": "906e1556b4acb5b980fc44afb974c6c33b4c9f31dea9dc4939892bb10894dea1",
-        "size": 66621152
+        "sha256": "8a94959a4afcf8f6c8a02c4f2461fa0e66a548f75fa17842d1fc64241e909d68",
+        "size": 66626688
       },
       "macos": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-macOS.zip",
-        "sha256": "7c8fe2a783fba66e8a3a010717123821465942ee43cca44f3e783093ab7416d0",
-        "size": 52461345
+        "sha256": "ce24519332af57bd72bafd45cae79c57a154a78ba4887ac51020b16f9a993eba",
+        "size": 52466159
       }
     }
   },
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.33.0.zip",
-      "sha256": "da0daee1a9b3464f232b273164df8f96a3d892e47d3567b3d694ffdbb1c57f6f",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.33.1.zip",
+      "sha256": "1f6da774a60834bce31d52ce57132dfe05b9001e390dcfe8d39a9cc9932e8f29",
       "exe": "SkixelSnowbound.exe",
-      "size": 67688402
+      "size": 67698478
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.33.0.zip",
-      "sha256": "5d9c54d1a1646b91c87920173c93b5ebb636df69b23ae0771b93909429be1686",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.33.1.zip",
+      "sha256": "be4fe3ad527f33f20630c58027d831afe3568ec4aedb70190ac726d2f67019ad",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 61662464
+      "size": 61668054
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.33.0.zip",
-      "sha256": "8784a060793c52fa5826462a5f831c8bf016359fe11cc8824edba711bbb818be",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.33.1.zip",
+      "sha256": "3d595108e928992bafa4d8221fb73af61950c3bfee50e3132553bfe5d659d95b",
       "exe": "Skixel RELOADED.app",
-      "size": 89425138
+      "size": 89431522
     }
   }
 }
