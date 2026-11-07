@@ -1,0 +1,24 @@
+{
+  "version": "0.29.0",
+  "notes": "Save slots, boards fit every skier, calmer aurora, pets leave your tracks",
+  "platforms": {
+    "windows": {
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.29.0.zip",
+      "sha256": "f47be4fee22acd0537abe57ad0cb62bff3f61faf7691685ac6a1dd23b743b9d4",
+      "exe": "SkixelSnowbound.exe",
+      "size": 61100092
+    },
+    "linux": {
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.29.0.zip",
+      "sha256": "4d7f0fc7f69a74df93788e003532f3d18291b637b08560de8759b89b6b6eaf47",
+      "exe": "SkixelSnowbound.x86_64",
+      "size": 55071581
+    },
+    "macos": {
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.29.0.zip",
+      "sha256": "6d811ca7b5c27d241350c8b31c80a81133ed1d110ac755a226db8f931c63d8c9",
+      "exe": "Skixel RELOADED.app",
+      "size": 82834497
+    }
+  }
+}
