@@ -1,3 +1,7 @@
-# Skixel SNOWBOUND releases
+# Skixel SNOWBOUND
 
-Files for the Skixel Launcher (latest: 0.29.0). Download the launcher, not these zips.
+Latest game: 0.29.0
+
+## Get the launcher
+
+Download the launcher for your system from the launcher folder (launcher/SkixelLauncher-windows.zip, -macos.zip, -linux.zip). It installs and updates the game by itself.
