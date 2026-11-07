@@ -1,7 +1,18 @@
 {
-  "version": "0.30.0",
-  "notes": "Open beta: four new skiers, soft music, new economy and tickets",
+  "version": "0.30.1",
+  "notes": "Candy cane unlocks, story skiers are bought, economy log",
   "history": [
+    {
+      "version": "0.30.1",
+      "date": "2026-11-07",
+      "title": "Candy canes",
+      "notes": [
+        "Every skier can be bought with candy canes alone (no cookies), or with cookies + candy as before",
+        "Story skiers (Penguin, Otter, ...) are only met on their mountain; you still buy them in SKIERS",
+        "The game writes a small economy_log.csv (one line per run) so prices can follow real play",
+        "Debug check for buttons and text that do not fit (--uicheck)"
+      ]
+    },
     {
       "version": "0.30.0",
       "date": "2026-11-07",
@@ -33,22 +44,22 @@
   ],
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.30.0.zip",
-      "sha256": "1a2d5d4d051c579cfb6462c988ab4a9b5f4b57f32053251550feff2bd28a2e9f",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.30.1.zip",
+      "sha256": "167be311aedad90f40d29d887e7ddd7a52aa5d3618a8c4c3efc55ed7029a55d6",
       "exe": "SkixelSnowbound.exe",
-      "size": 67159098
+      "size": 67161608
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.30.0.zip",
-      "sha256": "1ed3f2e0dd0a6e04cd0bc3dd173107bc5934b3c2d885f579e7ca0dcaed648cf8",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.30.1.zip",
+      "sha256": "1a1427c5a73fa76b46b8e8d47028c00e560659978cc872b0c44016b2629cac29",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 61129801
+      "size": 61132955
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.30.0.zip",
-      "sha256": "4df6f69eb778d652c4ffc88840edb6733b90148edb9083580643d782fae39dcd",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.30.1.zip",
+      "sha256": "d0214e8a8f31eac3e36730d3afbb6980c58b91ae5d70cdbd21aed4d6ecfad543",
       "exe": "Skixel RELOADED.app",
-      "size": 88892212
+      "size": 88895507
     }
   }
 }
