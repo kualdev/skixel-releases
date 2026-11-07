@@ -1,6 +1,6 @@
 # Skixel SNOWBOUND
 
-Latest game: 0.30.1
+Latest game: 0.30.2
 
 ## Download the launcher (one click)
 
