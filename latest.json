@@ -1,14 +1,22 @@
 {
   "version": "0.30.3",
-  "notes": "Balance by impact, not one big price rise",
+  "notes": "Fair prices",
   "history": [
+    {
+      "version": "0.30.3",
+      "date": "2026-11-07",
+      "title": "Fair prices",
+      "notes": [
+        "Prices now follow what an item really does (no more one big rise): looks and small perks cost little",
+        "Strong game-changers stay expensive: thermos, wax, mittens, scarf, trail mix, sled; the strongest need silver or gold tickets",
+        "Many cosmetics and trails are cheaper (trails 1000, gold parts 4000, surf board 4300)"
+      ]
+    },
     {
       "version": "0.30.2",
       "date": "2026-11-07",
-      "title": "Balance",
+      "title": "Russian and Grandfather",
       "notes": [
-        "Balance fixed: prices now follow what an item really does (tools/price_model.py), not one big rise",
-        "Looks and small perks cost little; strong game-changers (thermos, wax, mittens, scarf, trail mix) stay expensive; the strongest need silver or gold tickets",
         "Russian: heavier debuff (lane changes 30% slower, jumps 10% lower) and his shield comes back later",
         "Grandfather: two tricks off ramps and cliffs, the third is his signature move, three at most"
       ]
