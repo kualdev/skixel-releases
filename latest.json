@@ -1,20 +1,58 @@
 {
-  "version": "0.31.0",
-  "notes": "Turkish and Japanese",
+  "version": "0.32.0",
+  "notes": "Leaderboard, hold to skip, candy, self-updating launcher",
   "history": [
+    {
+      "version": "0.32.0",
+      "date": "2026-11-08",
+      "title": "Leaderboard",
+      "notes": [
+        "Leaderboard (Ranks on the menu): live boards for Endless, Daily and Weekly; one name for the whole game, scores are only sent when you press Submit (needs the online server)",
+        "Hold SPACE (or the mouse / a finger) to skip a cutscene: a stray key no longer skips it",
+        "Candy canes are worth much more: skiers, looks and pets cost far more candy (1000 cookies = 15 candy); candy-only skier prices follow the same rate",
+        "SNOWBOUND in the logo is gold now, so it never blends with SKIXEL",
+        "The game starts in English until you pick a language; the launcher follows the game's language",
+        "Buttons no longer shift when you hover them",
+        "The launcher updates itself from now on: no more downloading it again"
+      ],
+      "tr": {
+        "title": "Skor tablosu",
+        "notes": [
+          "Skor tablosu (men\u00fcde S\u0131ra): Sonsuz, G\u00fcnl\u00fck ve Haftal\u0131k i\u00e7in canl\u0131 tablolar; t\u00fcm oyun i\u00e7in tek isim, skorlar sadece G\u00f6nder'e bas\u0131nca g\u00f6nderilir (\u00e7evrimi\u00e7i sunucu gerekir)",
+          "Ara sahneleri atlamak i\u00e7in BO\u015eLUK'a (veya fareye / parma\u011fa) bas\u0131l\u0131 tut: yanl\u0131\u015fl\u0131kla bas\u0131lan bir tu\u015f art\u0131k atlatmaz",
+          "\u015eeker kam\u0131\u015f\u0131 \u00e7ok daha de\u011ferli: kayak\u00e7\u0131lar, g\u00f6r\u00fcn\u00fc\u015fler ve evcil hayvanlar \u00e7ok daha fazla \u015feker ister (1000 kurabiye = 15 \u015feker); sadece \u015fekerle kayak\u00e7\u0131 fiyatlar\u0131 da ayn\u0131 orana uyar",
+          "Logodaki SNOWBOUND art\u0131k alt\u0131n renginde, SKIXEL ile kar\u0131\u015fmaz",
+          "Oyun sen bir dil se\u00e7ene kadar \u0130ngilizce a\u00e7\u0131l\u0131r; ba\u015flat\u0131c\u0131 oyunun dilini izler",
+          "D\u00fc\u011fmeler \u00fcst\u00fcne gelince art\u0131k yerinden oynamaz",
+          "Ba\u015flat\u0131c\u0131 bundan sonra kendini g\u00fcnceller: tekrar indirmene gerek yok"
+        ]
+      },
+      "ja": {
+        "title": "\u30e9\u30f3\u30ad\u30f3\u30b0",
+        "notes": [
+          "\u30e9\u30f3\u30ad\u30f3\u30b0 (\u30e1\u30cb\u30e5\u30fc\u306e \u9806\u4f4d): \u30a8\u30f3\u30c9\u30ec\u30b9\u30fb\u30c7\u30a4\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30af\u30ea\u30fc\u306e \u30e9\u30a4\u30d6\u30e9\u30f3\u30ad\u30f3\u30b0\u3002\u306a\u307e\u3048\u306f \u30b2\u30fc\u30e0\u305c\u3093\u305f\u3044\u3067 1\u3064\u3001\u30b9\u30b3\u30a2\u306f\u300c\u3068\u3046\u3053\u3046\u300d\u3092 \u304a\u3057\u305f\u3068\u304d\u3060\u3051 \u304a\u304f\u3089\u308c\u307e\u3059 (\u30aa\u30f3\u30e9\u30a4\u30f3\u30b5\u30fc\u30d0\u30fc\u304c \u3072\u3064\u3088\u3046)",
+          "\u30e0\u30fc\u30d3\u30fc\u306e \u30b9\u30ad\u30c3\u30d7\u306f \u30b9\u30da\u30fc\u30b9 (\u307e\u305f\u306f \u30de\u30a6\u30b9 / \u3086\u3073) \u306e \u306a\u304c\u304a\u3057: \u307e\u3061\u304c\u3048\u3066 \u304a\u3057\u3066\u3082 \u3068\u3070\u3055\u308c\u307e\u305b\u3093",
+          "\u30ad\u30e3\u30f3\u30c7\u30a3\u30b1\u30a4\u30f3\u306e \u304b\u3061\u304c \u3050\u3093\u3068 \u3042\u304c\u308a\u307e\u3057\u305f: \u30b9\u30ad\u30fc\u30e4\u30fc\u30fb\u304a\u3057\u3083\u308c\u30fb\u30da\u30c3\u30c8\u306f \u305a\u3063\u3068 \u304a\u304a\u304f\u306e \u30ad\u30e3\u30f3\u30c7\u30a3\u304c \u3072\u3064\u3088\u3046 (\u30af\u30c3\u30ad\u30fc1000\u3053 = \u30ad\u30e3\u30f3\u30c7\u30a315\u3053)\u3002\u30ad\u30e3\u30f3\u30c7\u30a3\u3060\u3051\u3067 \u304b\u3046 \u30b9\u30ad\u30fc\u30e4\u30fc\u306e \u306d\u3060\u3093\u3082 \u304a\u306a\u3058 \u308f\u308a\u3042\u3044",
+          "\u30ed\u30b4\u306e SNOWBOUND \u3092 \u304d\u3093\u3044\u308d\u306b: SKIXEL \u3068 \u307e\u3056\u308a\u307e\u305b\u3093",
+          "\u3052\u3093\u3054\u3092 \u3048\u3089\u3076\u307e\u3067\u306f \u3048\u3044\u3054\u3067 \u306f\u3058\u307e\u308a\u307e\u3059\u3002\u30e9\u30f3\u30c1\u30e3\u30fc\u306f \u30b2\u30fc\u30e0\u306e \u3052\u3093\u3054\u306b \u3042\u308f\u305b\u307e\u3059",
+          "\u30dc\u30bf\u30f3\u306b \u30ab\u30fc\u30bd\u30eb\u3092 \u3042\u308f\u305b\u3066\u3082 \u3046\u3054\u304b\u306a\u304f \u306a\u308a\u307e\u3057\u305f",
+          "\u30e9\u30f3\u30c1\u30e3\u30fc\u306f \u3053\u308c\u304b\u3089 \u3058\u3076\u3093\u3067 \u3053\u3046\u3057\u3093\u3057\u307e\u3059: \u3082\u3046 \u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u306a\u304a\u3059 \u3072\u3064\u3088\u3046\u306f \u3042\u308a\u307e\u305b\u3093"
+        ]
+      }
+    },
     {
       "version": "0.31.0",
       "date": "2026-11-07",
       "title": "Languages",
       "notes": [
-        "Turkish and Japanese: pick the language in Settings > Game (the first start follows your computer)",
+        "Turkish and Japanese: pick the language in Settings > Game (English until you pick one)",
         "The launcher speaks them too and shows this list in your language",
         "Every text in the game, the shop, the cutscenes and the guide is translated"
       ],
       "tr": {
         "title": "Diller",
         "notes": [
-          "T\u00fcrk\u00e7e ve Japonca: dili Ayarlar > Oyun'dan se\u00e7 (ilk a\u00e7\u0131l\u0131\u015fta bilgisayar\u0131n\u0131n diline uyar)",
+          "T\u00fcrk\u00e7e ve Japonca: dili Ayarlar > Oyun'dan se\u00e7 (sen se\u00e7ene kadar \u0130ngilizce)",
           "Ba\u015flat\u0131c\u0131 da bu dilleri konu\u015fur ve bu listeyi senin dilinde g\u00f6sterir",
           "Oyundaki, ma\u011fazadaki, ara sahnelerdeki ve rehberdeki t\u00fcm metinler \u00e7evrildi"
         ]
@@ -22,7 +60,7 @@
       "ja": {
         "title": "\u3052\u3093\u3054",
         "notes": [
-          "\u30c8\u30eb\u30b3\u3054\u3068 \u306b\u307b\u3093\u3054\u306b \u305f\u3044\u304a\u3046: \u305b\u3063\u3066\u3044 > \u30b2\u30fc\u30e0\u3067 \u3052\u3093\u3054\u3092 \u3048\u3089\u3079\u307e\u3059 (\u3055\u3044\u3057\u3087\u306f \u30d1\u30bd\u30b3\u30f3\u306e \u3052\u3093\u3054\u306b \u3042\u308f\u305b\u307e\u3059)",
+          "\u30c8\u30eb\u30b3\u3054\u3068 \u306b\u307b\u3093\u3054\u306b \u305f\u3044\u304a\u3046: \u305b\u3063\u3066\u3044 > \u30b2\u30fc\u30e0\u3067 \u3052\u3093\u3054\u3092 \u3048\u3089\u3079\u307e\u3059 (\u3048\u3089\u3076\u307e\u3067\u306f \u3048\u3044\u3054)",
           "\u30e9\u30f3\u30c1\u30e3\u30fc\u3082 \u304a\u306a\u3058 \u3052\u3093\u3054\u3067\u3001\u3053\u306e \u30ea\u30b9\u30c8\u3082 \u3058\u3076\u3093\u306e \u3052\u3093\u3054\u3067 \u3072\u3087\u3046\u3058",
           "\u30b2\u30fc\u30e0\u30fb\u30b7\u30e7\u30c3\u30d7\u30fb\u30e0\u30fc\u30d3\u30fc\u30fb\u30ac\u30a4\u30c9\u306e \u3059\u3079\u3066\u306e \u30c6\u30ad\u30b9\u30c8\u3092 \u307b\u3093\u3084\u304f"
         ]
@@ -226,24 +264,44 @@
       }
     }
   ],
+  "launcher": {
+    "version": "1.4.0",
+    "platforms": {
+      "windows": {
+        "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-Windows.exe",
+        "sha256": "ceb996bcebf4b210417040efe894fdac99f588d4f442519cdf8d73979ab9dd0d",
+        "size": 84761360
+      },
+      "linux": {
+        "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-Linux.x86_64",
+        "sha256": "906e1556b4acb5b980fc44afb974c6c33b4c9f31dea9dc4939892bb10894dea1",
+        "size": 66621152
+      },
+      "macos": {
+        "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-macOS.zip",
+        "sha256": "7c8fe2a783fba66e8a3a010717123821465942ee43cca44f3e783093ab7416d0",
+        "size": 52461345
+      }
+    }
+  },
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.31.0.zip",
-      "sha256": "40b6a6f70bd2814e5cd62c5e56f8109496f54469e2ecd828ef0b8b0793a7fada",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.32.0.zip",
+      "sha256": "ddc67b801552a4e01616db0f1d93e2dbc3454d0225f11b687d5d822a1f4f103d",
       "exe": "SkixelSnowbound.exe",
-      "size": 67659391
+      "size": 67671738
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.31.0.zip",
-      "sha256": "06259bcf1d3ebd34bc1990ae9e12cdb9ff5b8a763419ea2043cf8e573632b010",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.32.0.zip",
+      "sha256": "7c7c71167c573f419e6a037484a3f6544b1bdb60a46cc0a4369750209d8ce6d5",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 61632228
+      "size": 61642533
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.31.0.zip",
-      "sha256": "73d287147a7cbfd504022c1db8d9c77f495bac536a8e907337b11f44aaf37fca",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.32.0.zip",
+      "sha256": "c4a38c1bf9f2b4089a890633b8b83c6e6706b496bfa1f888455bcb028097af2b",
       "exe": "Skixel RELOADED.app",
-      "size": 89395130
+      "size": 89406053
     }
   }
 }
