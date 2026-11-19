@@ -1,7 +1,30 @@
 {
-  "version": "0.35.0",
-  "notes": "New hats, obstacles, weather and minigames",
+  "version": "0.35.1",
+  "notes": "New launcher notice",
   "history": [
+    {
+      "version": "0.35.1",
+      "date": "2026-11-19",
+      "title": "New launcher notice",
+      "notes": [
+        "If your launcher is too old to update itself, the game tells you and opens the download for the new one",
+        "Launcher 1.4.6: remembers its version so the game can check it"
+      ],
+      "tr": {
+        "title": "Yeni ba\u015flat\u0131c\u0131 bildirimi",
+        "notes": [
+          "Ba\u015flat\u0131c\u0131n kendini g\u00fcncelleyemeyecek kadar eskiyse oyun bunu s\u00f6yl\u00fcyor ve yenisinin indirmesini a\u00e7\u0131yor",
+          "Ba\u015flat\u0131c\u0131 1.4.6: s\u00fcr\u00fcm\u00fcn\u00fc kaydediyor, oyun bunu kontrol edebiliyor"
+        ]
+      },
+      "ja": {
+        "title": "\u3042\u305f\u3089\u3057\u3044 \u30e9\u30f3\u30c1\u30e3\u30fc\u306e \u304a\u3057\u3089\u305b",
+        "notes": [
+          "\u30e9\u30f3\u30c1\u30e3\u30fc\u304c \u3075\u308b\u304f\u3066 \u3058\u3069\u3046\u3053\u3046\u3057\u3093 \u3067\u304d\u306a\u3044\u3068\u304d\u3001\u30b2\u30fc\u30e0\u304c \u304a\u3057\u3048\u3066 \u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3092 \u3072\u3089\u304d\u307e\u3059",
+          "\u30e9\u30f3\u30c1\u30e3\u30fc 1.4.6: \u3058\u3076\u3093\u306e \u30d0\u30fc\u30b8\u30e7\u30f3\u3092 \u304d\u308d\u304f\u3057\u3001\u30b2\u30fc\u30e0\u304c \u304b\u304f\u306b\u3093 \u3067\u304d\u307e\u3059"
+        ]
+      }
+    },
     {
       "version": "0.35.0",
       "date": "2026-11-19",
@@ -489,43 +512,43 @@
     }
   ],
   "launcher": {
-    "version": "1.4.5",
+    "version": "1.4.6",
     "platforms": {
       "windows": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-Windows.exe",
-        "sha256": "d5c8e1c2fb9c8b4dd90c6a6faad73850558f5be45129d63819d0116dfdc99485",
-        "size": 84770528
+        "sha256": "3b9217e50c9f767c1c7a5f6402a1da24d943c356dbb9f37ba139402dee90dc3e",
+        "size": 84770832
       },
       "linux": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-Linux.x86_64",
-        "sha256": "e9a9373b81764dae7961f347994c30d1f3b933760d43a7ac4593bd7c5e0849a8",
-        "size": 66630320
+        "sha256": "4af0b9bcf6c5e89dbe5fceda127d6b5d7e9e404ab7ff814b77e9e2342c9b5794",
+        "size": 66630624
       },
       "macos": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-macOS.zip",
-        "sha256": "b7f5262647cd9f6ddbddfcc192fa9f3fa9695b729b6f1fc7a8d7e12287f96efa",
-        "size": 52469347
+        "sha256": "4d8a4944e101f24f69e5d53a2b4f8186c674e9ece76892e810bac2a5f27a7411",
+        "size": 52469689
       }
     }
   },
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.35.0.zip",
-      "sha256": "2173b738c831f39d39a3bee2f979553f0c41edc99f2c373ae324115e8c3cada9",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.35.1.zip",
+      "sha256": "3262982139cbc7eadaaa49c4226156eaa4591355471b8c4052b43592f060db55",
       "exe": "SkixelSnowbound.exe",
-      "size": 44749959
+      "size": 44752736
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.35.0.zip",
-      "sha256": "a3d23a0e51c9cd71aa6a33da7321c058657671f3ac4fb3789eccaa2dcb0dfc3d",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.35.1.zip",
+      "sha256": "27e2b330ff3890154530a2a8e95285db79fa08ad2759a2b4f73574ef7146486e",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 38720528
+      "size": 38723544
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.35.0.zip",
-      "sha256": "3f0b6e2b29cf9e2a166177ae9a711200574f0ecbe84fe1a1ed22e63b1a2461d1",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.35.1.zip",
+      "sha256": "e5461b728d18d65e41ce97937ec370c8ce798277ef145345fa01088407ebc26a",
       "exe": "Skixel RELOADED.app",
-      "size": 66483024
+      "size": 66486069
     }
   }
 }
