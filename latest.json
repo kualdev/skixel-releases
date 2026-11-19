@@ -1,7 +1,45 @@
 {
-  "version": "0.34.1",
-  "notes": "Smaller download, small sound fixes",
+  "version": "0.35.0",
+  "notes": "New hats, obstacles, weather and minigames",
   "history": [
+    {
+      "version": "0.35.0",
+      "date": "2026-11-19",
+      "title": "New hats, obstacles, weather and minigames",
+      "notes": [
+        "The rolling rock is a real round stone now: it rolls on the snow instead of flipping into the air",
+        "Robot and Mountain Goat can wear hats and outfits; your own skier can wear every hat",
+        "New hats: Miner's hard hat, Ski goggles (see through fog), Antlers, Fur hat",
+        "New outfits: Bandana (wind can't push you) and Bow tie",
+        "New obstacles: tumbleweeds rolling across Stone Canyon, seals on the ice, sleds in town, barrels at the rail yard",
+        "New weather: hail (frost builds up) and diamond dust (cookies can count double)",
+        "Two new secret-door minigames: Slalom (gates in a row pay more) and Balloon Pop"
+      ],
+      "tr": {
+        "title": "Yeni \u015fapkalar, engeller, hava ve mini oyunlar",
+        "notes": [
+          "Yuvarlanan kaya art\u0131k ger\u00e7ek, yuvarlak bir ta\u015f: havaya f\u0131rlam\u0131yor, karda yuvarlan\u0131yor",
+          "Robot ve Da\u011f Ke\u00e7isi \u015fapka ve k\u0131yafet giyebiliyor; kendi kayak\u00e7\u0131n art\u0131k her \u015fapkay\u0131 giyebiliyor",
+          "Yeni \u015fapkalar: Madenci bareti, Kayak g\u00f6zl\u00fc\u011f\u00fc (sisi a\u015far), Geyik boynuzlar\u0131, K\u00fcrk \u015fapka",
+          "Yeni k\u0131yafetler: Bandana (r\u00fczg\u00e2r seni itemez) ve Papyon",
+          "Yeni engeller: Stone Canyon'da yuvarlanan \u00e7al\u0131 toplar\u0131, buzda foklar, kasabada k\u0131zaklar, demiryolunda f\u0131\u00e7\u0131lar",
+          "Yeni hava: dolu (donma artar) ve elmas tozu (kurabiyeler \u00e7ift say\u0131labilir)",
+          "Gizli kap\u0131larda iki yeni mini oyun: Slalom (art arda kap\u0131lar daha \u00e7ok kazand\u0131r\u0131r) ve Balon Patlat"
+        ]
+      },
+      "ja": {
+        "title": "\u3042\u305f\u3089\u3057\u3044 \u307c\u3046\u3057\u3001\u3057\u3087\u3046\u304c\u3044\u3076\u3064\u3001\u3066\u3093\u304d\u3001\u30df\u30cb\u30b2\u30fc\u30e0",
+        "notes": [
+          "\u3053\u308d\u304c\u308b \u3044\u308f\u304c \u307e\u308b\u3044 \u3044\u3057\u306b: \u3068\u3073\u3042\u304c\u3089\u305a\u3001\u3086\u304d\u306e \u3046\u3048\u3092 \u3053\u308d\u304c\u308a\u307e\u3059",
+          "\u30ed\u30dc\u30c3\u30c8\u3068 \u30e4\u30ae\u304c \u307c\u3046\u3057\u3068 \u3075\u304f\u3092 \u304d\u3089\u308c\u308b\u3088\u3046\u306b\u3002\u3058\u3076\u3093\u306e \u30b9\u30ad\u30fc\u30e4\u30fc\u306f \u305c\u3093\u3076\u306e \u307c\u3046\u3057\u3092 \u304d\u3089\u308c\u307e\u3059",
+          "\u3042\u305f\u3089\u3057\u3044 \u307c\u3046\u3057: \u3053\u3046\u3075\u306e \u30d8\u30eb\u30e1\u30c3\u30c8\u3001\u30b9\u30ad\u30fc\u30b4\u30fc\u30b0\u30eb (\u304d\u308a\u3067\u3082 \u307f\u3048\u308b)\u3001\u30b7\u30ab\u306e \u3064\u306e\u3001\u3051\u304c\u308f\u306e \u307c\u3046\u3057",
+          "\u3042\u305f\u3089\u3057\u3044 \u3075\u304f: \u30d0\u30f3\u30c0\u30ca (\u304b\u305c\u306b \u304a\u3055\u308c\u306a\u3044)\u3001\u3061\u3087\u3046\u30cd\u30af\u30bf\u30a4",
+          "\u3042\u305f\u3089\u3057\u3044 \u3057\u3087\u3046\u304c\u3044\u3076\u3064: \u30b9\u30c8\u30fc\u30f3\u30ad\u30e3\u30cb\u30aa\u30f3\u306e \u3053\u308d\u304c\u308a\u3050\u3055\u3001\u3053\u304a\u308a\u306e \u3046\u3048\u306e \u30a2\u30b6\u30e9\u30b7\u3001\u307e\u3061\u306e \u305d\u308a\u3001\u3066\u3064\u3069\u3046\u306e \u305f\u308b",
+          "\u3042\u305f\u3089\u3057\u3044 \u3066\u3093\u304d: \u3072\u3087\u3046 (\u3053\u304a\u308a\u3064\u304d\u304c \u305f\u307e\u308b)\u3001\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30c0\u30b9\u30c8 (\u30af\u30c3\u30ad\u30fc\u304c 2\u3070\u3044\u306b \u306a\u308b\u3053\u3068\u3082)",
+          "\u3072\u307f\u3064\u306e \u3068\u3073\u3089\u306b \u30df\u30cb\u30b2\u30fc\u30e0\u304c 2\u3064: \u30b9\u30e9\u30ed\u30fc\u30e0 (\u308c\u3093\u305e\u304f\u3067 \u30dc\u30fc\u30ca\u30b9) \u3068 \u3075\u3046\u305b\u3093\u308f\u308a"
+        ]
+      }
+    },
     {
       "version": "0.34.1",
       "date": "2026-11-19",
@@ -472,22 +510,22 @@
   },
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.34.1.zip",
-      "sha256": "06300af97d18f3691f3f234c257faca7082a1938bd59eaebbb5ff8459d28084f",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.35.0.zip",
+      "sha256": "2173b738c831f39d39a3bee2f979553f0c41edc99f2c373ae324115e8c3cada9",
       "exe": "SkixelSnowbound.exe",
-      "size": 44481279
+      "size": 44749959
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.34.1.zip",
-      "sha256": "54af05796eb8fc9899a0ec0d6d30aa61bf20f5c95f45ed8d022b8ba1b71c4984",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.35.0.zip",
+      "sha256": "a3d23a0e51c9cd71aa6a33da7321c058657671f3ac4fb3789eccaa2dcb0dfc3d",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 38454501
+      "size": 38720528
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.34.1.zip",
-      "sha256": "58dccd2daafa08fcff648df11a251c9adb46b40c3cf554ad1d07622134bab7b3",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.35.0.zip",
+      "sha256": "3f0b6e2b29cf9e2a166177ae9a711200574f0ecbe84fe1a1ed22e63b1a2461d1",
       "exe": "Skixel RELOADED.app",
-      "size": 66217779
+      "size": 66483024
     }
   }
 }
