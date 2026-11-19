@@ -1,7 +1,42 @@
 {
-  "version": "0.34.0",
-  "notes": "All new sound and music",
+  "version": "0.34.1",
+  "notes": "Smaller download, small sound fixes",
   "history": [
+    {
+      "version": "0.34.1",
+      "date": "2026-11-19",
+      "title": "Smaller download, small sound fixes",
+      "notes": [
+        "The music takes about a fifth of the space, so the download is much smaller",
+        "Music is a little louder",
+        "Cookie rings play every note of their little tune again, and the tune keeps going in slow motion",
+        "With effects muted, the music no longer dips for jingles you can't hear",
+        "Shop prices in silver and gold tickets are translated",
+        "Launcher: choose the window size in Settings"
+      ],
+      "tr": {
+        "title": "Daha k\u00fc\u00e7\u00fck indirme, k\u00fc\u00e7\u00fck ses d\u00fczeltmeleri",
+        "notes": [
+          "M\u00fczik yakla\u015f\u0131k be\u015fte bir yer kapl\u0131yor, indirme \u00e7ok daha k\u00fc\u00e7\u00fck",
+          "M\u00fczik biraz daha y\u00fcksek",
+          "Kurabiye halkalar\u0131 melodilerinin her notas\u0131n\u0131 yine \u00e7al\u0131yor, yava\u015f \u00e7ekimde de melodi devam ediyor",
+          "Efektler kapal\u0131yken duyulmayan jingle'lar i\u00e7in m\u00fczik art\u0131k k\u0131s\u0131lm\u0131yor",
+          "Ma\u011fazadaki g\u00fcm\u00fc\u015f ve alt\u0131n bilet fiyatlar\u0131 \u00e7evrildi",
+          "Launcher: pencere boyutu Ayarlar'dan se\u00e7ilebiliyor"
+        ]
+      },
+      "ja": {
+        "title": "\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u304c \u3061\u3044\u3055\u304f\u3001\u304a\u3068\u306e \u3053\u307e\u304b\u3044 \u3057\u3085\u3046\u305b\u3044",
+        "notes": [
+          "\u304a\u3093\u304c\u304f\u306e \u30b5\u30a4\u30ba\u304c \u3084\u304f 5\u3076\u3093\u306e1 \u306b \u306a\u308a\u3001\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u304c \u305a\u3063\u3068 \u3061\u3044\u3055\u304f",
+          "\u304a\u3093\u304c\u304f\u304c \u3059\u3053\u3057 \u304a\u304a\u304d\u304f",
+          "\u30af\u30c3\u30ad\u30fc\u306e \u308f\u306e \u30e1\u30ed\u30c7\u30a3\u304c \u307e\u305f \u305c\u3093\u3076\u306e \u304a\u3068\u3092 \u306a\u3089\u3057\u3001\u30b9\u30ed\u30fc\u30e2\u30fc\u30b7\u30e7\u30f3\u3067\u3082 \u3064\u3065\u304d\u307e\u3059",
+          "\u3053\u3046\u304b\u304a\u3093\u3092 \u30df\u30e5\u30fc\u30c8\u3057\u3066\u3044\u308b\u3068\u304d\u3001\u304d\u3053\u3048\u306a\u3044 \u30b8\u30f3\u30b0\u30eb\u3067 \u304a\u3093\u304c\u304f\u304c \u3055\u304c\u3089\u306a\u304f \u306a\u308a\u307e\u3057\u305f",
+          "\u30b7\u30e7\u30c3\u30d7\u306e \u304e\u3093\u30fb\u304d\u3093 \u30c1\u30b1\u30c3\u30c8\u306e \u306d\u3060\u3093\u304c \u307b\u3093\u3084\u304f \u3055\u308c\u307e\u3057\u305f",
+          "\u30e9\u30f3\u30c1\u30e3\u30fc: \u305b\u3063\u3066\u3044\u3067 \u30a6\u30a3\u30f3\u30c9\u30a6\u306e \u30b5\u30a4\u30ba\u3092 \u3048\u3089\u3079\u307e\u3059"
+        ]
+      }
+    },
     {
       "version": "0.34.0",
       "date": "2026-11-14",
@@ -416,43 +451,43 @@
     }
   ],
   "launcher": {
-    "version": "1.4.3",
+    "version": "1.4.4",
     "platforms": {
       "windows": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-Windows.exe",
-        "sha256": "a1f9f768c1a66938c0c29337eddce7d986c535536c6370046ae6a19e7830f203",
-        "size": 84767296
+        "sha256": "76ba03b9548a5c9838348b3da3196711f31d66a4123a96f76906ab986536526d",
+        "size": 84768320
       },
       "linux": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-Linux.x86_64",
-        "sha256": "09228f9fc7e29e3d14dacaa397eaecdb77375671cdc1778df867dbe25ce7df29",
-        "size": 66627088
+        "sha256": "f76f59a01088bfa08adbb7196e0cd0302e648925798929c52ae706a58be564a4",
+        "size": 66628096
       },
       "macos": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-macOS.zip",
-        "sha256": "369571b7911c3b348ecb7b19a7490b8248e7c2ddfade51ef900c594d4bc9e299",
-        "size": 52466568
+        "sha256": "11b666a772b0dfb882bc09a0ebe65ebfb66dc1b53d344d900433c1a77ad9045f",
+        "size": 52467485
       }
     }
   },
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.34.0.zip",
-      "sha256": "af13ff3fa7130df3244338785b73fb3ae0fcec544ddc2190a9fa80ff6c6866f2",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.34.1.zip",
+      "sha256": "06300af97d18f3691f3f234c257faca7082a1938bd59eaebbb5ff8459d28084f",
       "exe": "SkixelSnowbound.exe",
-      "size": 74090068
+      "size": 44481279
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.34.0.zip",
-      "sha256": "d0097e992ad3a287d3e0312b5589c80cff853b42f0f31b9631fac97c03664cc3",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.34.1.zip",
+      "sha256": "54af05796eb8fc9899a0ec0d6d30aa61bf20f5c95f45ed8d022b8ba1b71c4984",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 68061643
+      "size": 38454501
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.34.0.zip",
-      "sha256": "04a76469d19b3d1362a448d992f1289b6cdeaabcd8b078158cc1681936b7e051",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.34.1.zip",
+      "sha256": "58dccd2daafa08fcff648df11a251c9adb46b40c3cf554ad1d07622134bab7b3",
       "exe": "Skixel RELOADED.app",
-      "size": 95824688
+      "size": 66217779
     }
   }
 }
