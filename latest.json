@@ -489,22 +489,22 @@
     }
   ],
   "launcher": {
-    "version": "1.4.4",
+    "version": "1.4.5",
     "platforms": {
       "windows": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-Windows.exe",
-        "sha256": "76ba03b9548a5c9838348b3da3196711f31d66a4123a96f76906ab986536526d",
-        "size": 84768320
+        "sha256": "d5c8e1c2fb9c8b4dd90c6a6faad73850558f5be45129d63819d0116dfdc99485",
+        "size": 84770528
       },
       "linux": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-Linux.x86_64",
-        "sha256": "f76f59a01088bfa08adbb7196e0cd0302e648925798929c52ae706a58be564a4",
-        "size": 66628096
+        "sha256": "e9a9373b81764dae7961f347994c30d1f3b933760d43a7ac4593bd7c5e0849a8",
+        "size": 66630320
       },
       "macos": {
         "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/launcher/SkixelLauncher-macOS.zip",
-        "sha256": "11b666a772b0dfb882bc09a0ebe65ebfb66dc1b53d344d900433c1a77ad9045f",
-        "size": 52467485
+        "sha256": "b7f5262647cd9f6ddbddfcc192fa9f3fa9695b729b6f1fc7a8d7e12287f96efa",
+        "size": 52469347
       }
     }
   },
