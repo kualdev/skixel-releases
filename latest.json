@@ -1,7 +1,27 @@
 {
-  "version": "0.35.3",
-  "notes": "Launcher fix for Mac",
+  "version": "0.35.4",
+  "notes": "Cheat codes",
   "history": [
+    {
+      "version": "0.35.4",
+      "date": "2026-11-20",
+      "title": "Cheat codes",
+      "notes": [
+        "Settings > About has a place for cheat codes"
+      ],
+      "tr": {
+        "title": "Hile kodlar\u0131",
+        "notes": [
+          "Ayarlar > Hakk\u0131nda'da hile kodlar\u0131 i\u00e7in bir yer var"
+        ]
+      },
+      "ja": {
+        "title": "\u30c1\u30fc\u30c8\u30b3\u30fc\u30c9",
+        "notes": [
+          "\u305b\u3063\u3066\u3044 > \u3058\u3087\u3046\u307b\u3046 \u306b \u30c1\u30fc\u30c8\u30b3\u30fc\u30c9\u3092 \u3044\u308c\u308b \u3070\u3057\u3087\u304c \u3067\u304d\u307e\u3057\u305f"
+        ]
+      }
+    },
     {
       "version": "0.35.3",
       "date": "2026-11-20",
@@ -579,22 +599,22 @@
   },
   "platforms": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.35.3.zip",
-      "sha256": "bafdd3f2ec8426b9df3a14dc324e22740b4b5a80bd8c6cdc87a42c35235d6825",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-windows-0.35.4.zip",
+      "sha256": "fd0a93c9de095860978098775203511c2b262cdd5609c416444a713ea924d3c5",
       "exe": "SkixelSnowbound.exe",
-      "size": 44783361
+      "size": 44786131
     },
     "linux": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.35.3.zip",
-      "sha256": "eb136969270b71986391c21fa285ce07868a1125d0a8e68d7cf6ab58ae29fe38",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-linux-0.35.4.zip",
+      "sha256": "1ea84b688608571f5341beab35f89022a5adf6609c2713cc512df70fc6798bad",
       "exe": "SkixelSnowbound.x86_64",
-      "size": 38754621
+      "size": 38757422
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.35.3.zip",
-      "sha256": "a4e7f44f58068119cdb0e5cbd0e81808b9d40859d5a5be18fef9b8be3eb272bb",
+      "url": "https://raw.githubusercontent.com/kualdev/skixel-releases/main/skixel-macos-0.35.4.zip",
+      "sha256": "770729576f58098f2529d63918c3e709ac121b172b8ba4cec23c6e3fa4a84987",
       "exe": "Skixel RELOADED.app",
-      "size": 66517429
+      "size": 66520284
     }
   }
 }
